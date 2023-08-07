@@ -1,5 +1,5 @@
 {
-    "count": 4,
+    "count": 6,
     "next": null,
     "previous": null,
     "results": [
@@ -16,6 +16,20 @@
             "type": "Myth",
             "status": "private",
             "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Catalan/f7a6aacb-5f36-4e10-86f4-973fedc5f0c0_ca_Female.mp4"
+        },
+        {
+            "id": "e806b59f-d072-4822-ab12-3cee5295a4ef",
+            "collectionId": "Catalan",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Catalan/e806b59f-d072-4822-ab12-3cee5295a4ef_ca_Female.mp4"
+        },
+        {
+            "id": "9210090d-121e-482f-90f8-0658fdeac0e5",
+            "collectionId": "Catalan",
+            "type": "Myth",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Myth/Catalan/9210090d-121e-482f-90f8-0658fdeac0e5_ca_Female.mp4"
         },
         {
             "id": "2963b90a-3a09-4cf4-a028-26222c4de93c",
